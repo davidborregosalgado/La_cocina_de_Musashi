@@ -322,5 +322,33 @@ footer a{
   padding-right:2vw;
   padding-left:2vw
 }
-.mainportada p{padding-right:5vw;padding-left:5vw}.footerportada{width:100%;height:10vh;background-color:none;margin-top:0}.pieportada{text-align:center}.pieportada p{padding-top:1vh;margin-bottom:0}@media screen and (min-width:600px){.encabezadoportada{padding-top:20vh;font-size:5rem}.navportada ul li{display:inline-block;margin-right:30px}.navportada{margin-top:opx}}
+.mainportada p{
+  padding-right:5vw;
+  padding-left:5vw
+}
+.footerportada{
+  width:100%;
+  height:10vh;
+  background-color:none;
+  margin-top:0
+}
+.pieportada{
+  text-align:center
+}
+.pieportada p{
+  padding-top:1vh;
+  margin-bottom:0
+}
+@media screen and (min-width:600px){
+  .encabezadoportada{
+    padding-top:20vh;
+    font-size:5rem}
+  .navportada ul li{
+    display:inline-block;
+    margin-right:30px
+  }
+  .navportada{
+    margin-top:opx
+  }
+}
 /*# sourceMappingURL=/style.8bb1f3fb.css.map */
